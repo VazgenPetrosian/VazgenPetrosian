@@ -7,7 +7,7 @@
 vazgen.petrosian@yandex.ru
 ____
 ✅ Web-development projects at Yandex Practicum School:
-- Sprint 1-2 - How to learn (static site)
+- Sprint 1-2 - [How to learn](https://github.com/VazgenPetrosian/how-to-learn) (static site)
 - Sprint 3 - Russian travel (adaptive design site)
 - Sprint 4-5-6-7-8-9 - Mesto (SPA /application)
 - Sprint 10-11-12 - Mesto Frontend (React + auth)
