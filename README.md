@@ -15,6 +15,10 @@ ____
 - Sprint 15 - [Mesto fullstack](https://github.com/VazgenPetrosian/react-mesto-api-full-gha) (Mesto fullstack App)
 - Diploma - [Movies backend](https://github.com/VazgenPetrosian/movies-explorer-api) (Movies fullstack App, part-1)
 - Diploma - [Movies frontend](https://github.com/VazgenPetrosian/movies-explorer-api) (Movies fullstack App, part-2)
+____
+
+#### STACK
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 
