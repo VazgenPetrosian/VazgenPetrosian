@@ -4,7 +4,7 @@
 👨‍💻 some of my projects are available here at https://github.com/ground-aero
 
 #### Connect with me:
-vazgen.petrosian@yandex.ru https://t.me/behe_lit
+Email: vazgen.petrosian@yandex.ru Telegram: https://t.me/behe_lit
 ____
 ✅ Web-development projects at Yandex Practicum School:
 - Sprint 1-2 - [How to learn](https://github.com/VazgenPetrosian/how-to-learn) (static site)
