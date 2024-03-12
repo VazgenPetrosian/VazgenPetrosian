@@ -1,7 +1,7 @@
 ### 👋, I`m Vazgen
 
 #### Web developer
-👨‍💻 some of my projects are available here at https://github.com/ground-aero
+👨‍💻 some of my projects are available here at 
 
 #### Connect with me:
 Email: vazgen.petrosian@yandex.ru Telegram: https://t.me/behe_lit
